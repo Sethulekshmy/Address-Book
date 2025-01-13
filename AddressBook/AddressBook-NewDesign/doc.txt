@@ -1,0 +1,297 @@
+Name: S S Sethulekshmy
+Description: Create AdressBook
+Sumbitted on:20-09-2024
+Address Book Menu:
+1. Create contact
+2. Search contact
+3. Edit contact
+4. Delete contact
+5. List all contacts
+6. Save contacts
+7. Exit
+Enter your choice: 1
+Enter the name: Sethu
+Enter the Mobile Number:9633912323
+Enter the E-mail: sethu123
+ Email must contain '@' and end with '.com'. Please re-enter.
+Enter the E-mail: sethu@gmail.com
+Contacts created successfully !!!
+Address Book Menu:
+1. Create contact
+2. Search contact
+3. Edit contact
+4. Delete contact
+5. List all contacts
+6. Save contacts
+7. Exit
+Enter your choice: 2
+
+Choose the option:
+1.Name
+2.Mobile number
+3.Email
+4.EXIT
+1
+Enter the name to be searched: David Brown
+Name: David Brown
+Mobile number: 7778889999
+Email: david@example.com
+
+Choose the option:
+1.Name
+2.Mobile number
+3.Email
+4.EXIT
+2
+Enter the mobile number to be searched: 9633912323
+Name: Sethu
+Mobile number :9633912323
+Email :sethu@gmail.com
+Choose the option:
+1.Name
+2.Mobile number
+3.Email
+4.EXIT
+4
+Invalid choice
+
+Address Book Menu:
+1. Create contact
+2. Search contact
+3. Edit contact
+4. Delete contact
+5. List all contacts
+6. Save contacts
+7. Exit
+Enter your choice: 3
+
+Enter the option:
+1.Name
+2.Mobile number
+3.E-mail
+1
+Enter the name:David Brown
+Enter the new name: Parvathy
+
+Address Book Menu:
+1. Create contact
+2. Search contact
+3. Edit contact
+4. Delete contact
+5. List all contacts
+6. Save contacts
+7. Exit
+Enter your choice: 5
+Name: John Doe
+Mobile number :1234567890
+Email :john@example.com
+Name: Alice Smith
+Mobile number :0987654321
+Email :alice@example.com
+Name: Bob Johnson
+Mobile number :1112223333
+Email :bob@company.com
+Name: Carol White
+Mobile number :4445556666
+Email :carol@company.com
+Name: Parvathy
+Mobile number :7778889999
+Email :david@example.com
+Name: Eve Davis
+Mobile number :6665554444
+Email :eve@example.com
+Name: Frank Miller
+Mobile number :3334445555
+Email :frank@example.com
+Name: Grace Wilson
+Mobile number :2223334444
+Email :grace@example.com
+Name: Hannah Clark
+Mobile number :5556667777
+Email :hannah@example.com
+Name: Ian Lewis
+Mobile number :8889990000
+Email :ian@example.com
+Name: Sethu
+Mobile number :9633912323
+Email :sethu@gmail.com
+
+Address Book Menu:
+1. Create contact
+2. Search contact
+3. Edit contact
+4. Delete contact
+5. List all contacts
+6. Save contacts
+7. Exit
+Enter your choice: 4
+
+Enter the name to delete:
+Parvathy
+
+Address Book Menu:
+1. Create contact
+2. Search contact
+3. Edit contact
+4. Delete contact
+5. List all contacts
+6. Save contacts
+7. Exit
+Enter your choice: 5
+Name: John Doe
+Mobile number :1234567890
+Email :john@example.com
+Name: Alice Smith
+Mobile number :0987654321
+Email :alice@example.com
+Name: Bob Johnson
+Mobile number :1112223333
+Email :bob@company.com
+Name: Carol White
+Mobile number :4445556666
+Email :carol@company.com
+Name: Eve Davis
+Mobile number :6665554444
+Email :eve@example.com
+Name: Frank Miller
+Mobile number :3334445555
+Email :frank@example.com
+Name: Grace Wilson
+Mobile number :2223334444
+Email :grace@example.com
+Name: Hannah Clark
+Mobile number :5556667777
+Email :hannah@example.com
+Name: Ian Lewis
+Mobile number :8889990000
+Email :ian@example.com
+Name: Sethu
+Mobile number :9633912323
+Email :sethu@gmail.com
+
+Address Book Menu:
+1. Create contact
+2. Search contact
+3. Edit contact
+4. Delete contact
+5. List all contacts
+6. Save contacts
+7. Exit
+//File.c
+Address Book Menu:
+1. Create contact
+2. Search contact
+3. Edit contact
+4. Delete contact
+5. List all contacts
+6. Save contacts
+7. Exit
+Enter your choice: 5
+Name: sethu
+Mobile number : 1234567890
+Email :sethu@gmail.com
+Name: davis
+Mobile number : 9747472287
+Email : devi@gmail.com
+Name: paru
+Mobile number : 9876543210
+Email : parurohan@gmail.com
+Name: sinta
+Mobile number :9946919908
+Email :sintaalan@gmail.com
+
+Address Book Menu:
+1. Create contact
+2. Search contact
+3. Edit contact
+4. Delete contact
+5. List all contacts
+6. Save contacts
+7. Exit
+Enter your choice: 1
+Enter the name: arun
+Enter the Mobile Number:9946298224
+Enter the E-mail: arun@gmail.com
+Contacts created successfully !!!
+Address Book Menu:
+1. Create contact
+2. Search contact
+3. Edit contact
+4. Delete contact
+5. List all contacts
+6. Save contacts
+7. Exit
+Enter your choice: 2
+
+Choose the option:
+1.Name
+2.Mobile number
+3.Email
+4.EXIT
+2
+Enter the mobile number to be searched: 9946298224
+Name: arun
+Mobile number :9946298224
+Email :arun@gmail.com
+Choose the option:
+1.Name
+2.Mobile number
+3.Email
+4.EXIT
+3
+Enter the email to be searched: arun@gmail.com
+Name: arun
+Mobile number :9946298224
+Email :arun@gmail.com
+Choose the option:
+1.Name
+2.Mobile number
+3.Email
+4.EXIT
+4
+Invalid choice
+
+Address Book Menu:
+1. Create contact
+2. Search contact
+3. Edit contact
+4. Delete contact
+5. List all contacts
+6. Save contacts
+7. Exit
+Enter your choice: 4
+
+Enter the name to delete:
+sethu
+
+Address Book Menu:
+1. Create contact
+2. Search contact
+3. Edit contact
+4. Delete contact
+5. List all contacts
+6. Save contacts
+7. Exit
+Enter your choice: 5
+Name: davis
+Mobile number : 9747472287
+Email : devi@gmail.com
+Name: paru
+Mobile number : 9876543210
+Email : parurohan@gmail.com
+Name: sinta
+Mobile number :9946919908
+Email :sintaalan@gmail.com
+Name: arun
+Mobile number :9946298224
+Email :arun@gmail.com
+
+Address Book Menu:
+1. Create contact
+2. Search contact
+3. Edit contact
+4. Delete contact
+5. List all contacts
+6. Save contacts
+7. Exit
+Enter your choice:
